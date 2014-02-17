@@ -2,7 +2,7 @@
 
 ## About
 
-This is a class which allows you to to easily create timers with a sense of remaining time and a human-readable output. Trying to build a game with a coutdown, I found it frustrating that NSTimer did not have a way to just behave like a stop watch; it seemed like such a simple task. So, rather than have the game controller in my project manage the time, I built this class handle it.
+This is a class which allows you to to easily create countdown timers with a sense of remaining time and a human-readable output. Trying to build a game with a ticking clock, I was frustrated that NSTimer did not have a way to behave like a stop watch; it seemed like such a simple task. So, rather than have the game controller in my project manage the time, I built this class handle it. For use in iOS or OS X applications. 
 
 ## Features
 
